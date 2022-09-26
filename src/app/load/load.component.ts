@@ -53,6 +53,5 @@ export class LoadComponent implements OnInit {
         }
       ), (err:any) => alert(err)
     });
-    this.router.navigate(['/home']);
   }
 }
