@@ -1,0 +1,22 @@
+
+
+.field {
+    padding: 5px;
+    margin-bottom: 10px;
+    position: relative;
+}
+  
+.field:hover {
+    box-shadow: 1px 1px 16px #ddd;
+    background-color: #AAA;
+    border-radius: 0.5em;
+    color: white;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.report{
+    overflow-y: scroll; height:70vh;
+}
